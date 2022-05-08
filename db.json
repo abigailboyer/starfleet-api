@@ -1,0 +1,82 @@
+{
+  "courses": [
+    {
+      "id": 45100,
+      "title": "Hostile Species",
+      "level": "DIPL 102",
+      "teacher": "Cdr. T'Rin",
+      "time": "10:00-11:20",
+      "block": 2,
+      "runtime": 1.5,
+      "blockSpan": 1,
+      "days": ["M", "W", "F"],
+      "school": "command",
+      "sub": "intelligence"
+    },
+    {
+      "id": 45101,
+      "title": "Warp Theory",
+      "level": "PHYS 200",
+      "teacher": "Cdre. Paris",
+      "time": "8:30-9:50",
+      "block": 1,
+      "blockSpan": 1,
+      "runtime": 1.5,
+      "days": ["M", "W", "F"],
+      "school": "science",
+      "sub": "physics"
+    },
+    {
+      "id": 45102,
+      "title": "Strategic Combat",
+      "level": "PE 100",
+      "teacher": "Rdml. Harrison",
+      "time": "14:30-17:30",
+      "block": 5,
+      "blockSpan": 2,
+      "runtime": 3,
+      "days": ["M", "W", "F"],
+      "school": "general",
+      "sub": "general"
+    },
+    {
+      "id": 45103,
+      "title": "Warp Systems",
+      "level": "ENG 200",
+      "teacher": "Adm. Simmons",
+      "time": "10:00-11:20",
+      "block": 2,
+      "blockSpan": 1,
+      "runtime": 1.5,
+      "days": ["T", "R"],
+      "school": "engineering",
+      "sub": "engineering"
+    },
+    {
+      "id": 45104,
+      "title": "Elementary Temporal Mechanics",
+      "level": "PHYS 302",
+      "teacher": "Cdre. Paris",
+      "time": "13:00-16:00",
+      "block": 4,
+      "blockSpan": 2,
+      "runtime": 3,
+      "days": ["T", "R"],
+      "school": "science",
+      "sub": "physics"
+    },
+    {
+      "id": 45105,
+      "title": "Negotiations",
+      "level": "DIPL 104",
+      "teacher": "Cdr. Asa",
+      "time": "7:00-9:50",
+      "block": 0,
+      "blockSpan": 2,
+      "runtime": 3,
+      "days": ["T", "R"],
+      "school": "command",
+      "sub": "intelligence"
+    }
+  ]
+}
